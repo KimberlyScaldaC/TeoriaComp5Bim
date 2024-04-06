@@ -174,10 +174,4 @@ Usar quantas fitas achar necessário.
 13 - Construa uma máquina de touring que trabalha sobre cadeias do tipo {a, b}* e conte quantas letras a's e b's aparecem nessa cadeia. O número deverá estar em base unária. Por exemplo: se entrada = aaabbbaa, então saída = aaabbbaa$11111$111.
 Usar quantas fitas achar necessário.
 
-2 Fitas:
-
 <img src="/Imagens/Ativ132fitas.png">
-
-3 Fitas:
-
-<img src="/Imagens/Ativ133fitas.png">
