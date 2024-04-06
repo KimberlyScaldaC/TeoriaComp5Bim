@@ -8,7 +8,7 @@
 
 ## Exercícios:
 
-1) fazer a máquina de touring com 3 fitas para reconhecer L={an bn cn, n>=0} 
+1. fazer a máquina de touring com 3 fitas para reconhecer L={an bn cn, n>=0} 
 
 <img src="/Kimberly/Ativ1.png">
 
