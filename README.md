@@ -89,7 +89,7 @@ d) fatorial de A, sendo A um número inteiro positivo.
 
 e) pot(x,y) = (x ^y), para x e y inteiros positivos.
 
-A fazer.
+<img src="/Imagens/Ativ9e3fitas.png">
 
 f) f(x,y) = x + y para x e y inteiros positivos.
 
