@@ -72,21 +72,40 @@ Obs: sugestão: usar duas fitas. Avaliar se precisa de mais fitas.
 
 a) f(x, y) = x - y, para x e y inteiros e positivos, com x > y.
 
+<img src="/Imagens/Ativ9a2fitas.png">
+
+
 b) f(x, y) = 3*x, para x inteiro e positivo.
+
+<img src="/Imagens/Ativ9b2fitas.png">
 
 c) f(x, y) = x * y, para x e y inteiros e positivos.
 
+<img src="/Imagens/Ativ9c2fitas.png">
+
 d) fatorial de A, sendo A um número inteiro positivo.
+
+<img src="/Imagens/Ativ9d2fitas.png">
 
 e) pot(x,y) = (x ^y), para x e y inteiros positivos.
 
+A fazer.
+
 f) f(x,y) = x + y para x e y inteiros positivos.
+
+<img src="/Imagens/Ativ9f2fitas.png">
 
 g) teste(A > B): nos inteiros positivos.
 
+<img src="/Imagens/Ativ9g2fitas.png">
+
 h) teste (A >= B): nos inteiros positivos.
 
->i) teste (A <=B) : nos inteiros positivos.
+<img src="/Imagens/Ativ9h2fitas.png">
+
+i) teste (A <=B) : nos inteiros positivos.
+
+<img src="/Imagens/Ativ9i2fitas.png">
 
 10 - 
 
@@ -104,6 +123,7 @@ a) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, q3}, {a, b
 >
 >δ (q2, b) = (q2, b, R).
 >
+<img src="/Imagens/Ativ10a1fita.png">
 
 b) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, q3}, {a, b}, {a, b, □}, δ, q0, {q3}), onde
 >
@@ -119,6 +139,7 @@ b) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, q3}, {a, b
 >
 >δ (q2, a) = (q3, a, R).
 >
+<img src="/Imagens/Ativ10b1fita.png">
 
 c) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, qf}, {0, 1}, {0, 1, □}, δ, q0, {qf}), onde
 >
@@ -132,12 +153,27 @@ c) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, qf}, {0, 1
 >
 >δ (q2, □) = (qf, □, R),
 >
+<img src="/Imagens/Ativ10c1fita.png">
 
 11 - Construa uma máquina de touring que calcule o tamanho de uma cadeia w, onde w pertence ao conjunto {a, b}*, no qual o tamanho deve ser escrito na base unária. (A máquina de Touring irá simular o comando strlen() da linguagem C). Por exemplo: entrada = abaaba, saída = abaaba$111111.
 Usar quantas fitas achar necessário.
 
+<img src="/Imagens/Ativ112fitas.png">
+
 12 - Construa uma máquina de touring que simule o comando strncpy(w1, w2, qt) da linguagem C, sabendo que as cadeias são do tipo {a, b}* e a quantidade estará escrita na base unária. Por exemplo: se entrada = aaabbbaa$1111, então a saída = aaabbbaa$1111#aaab.
 Usar quantas fitas achar necessário.
 
+2 Fitas:
+<img src="/Imagens/Ativ122fitas.png">
+
+3 Fitas:
+<img src="/Imagens/Ativ123fitas.png">
+
 13 - Construa uma máquina de touring que trabalha sobre cadeias do tipo {a, b}* e conte quantas letras a's e b's aparecem nessa cadeia. O número deverá estar em base unária. Por exemplo: se entrada = aaabbbaa, então saída = aaabbbaa$11111$111.
 Usar quantas fitas achar necessário.
+
+2 Fitas:
+<img src="/Imagens/Ativ132fitas.png">
+
+3 Fitas:
+<img src="/Imagens/Ativ133fitas.png">
