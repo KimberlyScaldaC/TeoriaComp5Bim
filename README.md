@@ -20,18 +20,19 @@
 7) Construa uma MT (Σ = { a, b}) que detecte se uma cadeia é um palíndromo.
 
 8) Construa uma MT que reconheça as seguintes linguagens:
-   
-a) fazer L = {w | na(w) = nb(w) = nc(w)} com 1 fita e com 3 fitas.
-
-b) fazer L = {an b2n c3n | n >= 0}com 1 fita e com 3 fitas
-
-c) fazer L = {w | o décimo símbolo da direita para a esquerda é a} com 1 fita
-
-d) fazer L = {ai bj ak | i = j ou j = k} com 1 fita e com 3 fitas
-
-e) fazer L = {ai bj ak | i < j < k} com 1 fita e com 3 fitas
-
-f) fazer L = {an b3n | n >= 1} com 1 fita e com 2 fitas
+>   
+>a) fazer L = {w | na(w) = nb(w) = nc(w)} com 1 fita e com 3 fitas.
+>
+>b) fazer L = {an b2n c3n | n >= 0}com 1 fita e com 3 fitas
+>
+>c) fazer L = {w | o décimo símbolo da direita para a esquerda é a} com 1 fita
+>
+>d) fazer L = {ai bj ak | i = j ou j = k} com 1 fita e com 3 fitas
+>
+>e) fazer L = {ai bj ak | i < j < k} com 1 fita e com 3 fitas
+>
+>f) fazer L = {an b3n | n >= 1} com 1 fita e com 2 fitas
+>
 
 10) Projete Máquinas de Turing que calcule as funções:
 Obs: sugestão: usar duas fitas. Avaliar se precisa de mais fitas.
