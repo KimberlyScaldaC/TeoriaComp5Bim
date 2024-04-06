@@ -10,56 +10,83 @@
 
 1 - fazer a máquina de touring com 3 fitas para reconhecer L={an bn cn, n>=0}.
 
-<img src="/Kimberly/Ativ1.png">
+<img src="/Imagens/Ativ1.png">
 
 2 - fazer a máquina de touring com 1 fita para reconhecer L={an bn cn, n>=0}.
 
+<img src="/Imagens/Ativ2.png">
+
 3 - fazer a máquina de touring com 1 fita para reconhecer L={an bn cn dn, n>=0}.
+
+<img src="/Imagens/Ativ3.png">
 
 4 - fazer a máquina de touring com 4 fitas para reconhecer L={an bn cn dn, n>=0}.
 
+<img src="/Imagens/Ativ4.png">
+
 5 - Construa uma máquina de Turing que conte o número de a’s de uma cadeia de caracteres (Σ = {a, b} ). A MT é iniciada com a cabeça sobre o primeiro carácter da cadeia (ex. q0 abababbba). Deve parar à direita da cadeia com a cabeça a apontar para o número de ocorrências do carácter a (abababbba□ qf 1111).
+
+<img src="/Imagens/Ativ5.png">
 
 6 - Construa uma MT que dada uma cadeia de caracteres (Σ = {0, 1}) ordene essa cadeia. A MT é iniciada com a cabeça sobre o primeiro carácter da cadeia (ex. q0 1000110) e deve parar com a cabeça sobre o primeiro carácter da cadeia ordenada(ex. qf 0000111).
 
+<img src="/Imagens/Ativ6.png">
+
 7 - Construa uma MT (Σ = { a, b}) que detecte se uma cadeia é um palíndromo.
 
+<img src="/Imagens/Ativ7.png">
+
 8 - Construa uma MT que reconheça as seguintes linguagens:
->   
->a) fazer L = {w | na(w) = nb(w) = nc(w)} com 1 fita e com 3 fitas.
->
->b) fazer L = {an b2n c3n | n >= 0}com 1 fita e com 3 fitas.
->
->c) fazer L = {w | o décimo símbolo da direita para a esquerda é a} com 1 fita.
->
->d) fazer L = {ai bj ak | i = j ou j = k} com 1 fita e com 3 fitas.
->
->e) fazer L = {ai bj ak | i < j < k} com 1 fita e com 3 fitas.
->
->f) fazer L = {an b3n | n >= 1} com 1 fita e com 2 fitas.
->
+
+a) fazer L = {w | na(w) = nb(w) = nc(w)} com 1 fita e com 3 fitas.
+
+<img src="/Imagens/Ativ8a1fita.png">
+<img src="/Imagens/Ativ8a3fitas.png">
+
+b) fazer L = {an b2n c3n | n >= 0}com 1 fita e com 3 fitas.
+
+<img src="/Imagens/Ativ8b1fita.png">
+<img src="/Imagens/Ativ8b3fitas.png">
+
+c) fazer L = {w | o décimo símbolo da direita para a esquerda é a} com 1 fita.
+
+<img src="/Imagens/Ativ8c1fita.png">
+
+d) fazer L = {ai bj ak | i = j ou j = k} com 1 fita e com 3 fitas.
+
+<img src="/Imagens/Ativ8d1fita.png">
+<img src="/Imagens/Ativ8d3fitas.png">
+
+e) fazer L = {ai bj ak | i < j < k} com 1 fita e com 3 fitas.
+
+<img src="/Imagens/Ativ8e1fita.png">
+<img src="/Imagens/Ativ8e3fitas.png">
+
+f) fazer L = {an b3n | n >= 1} com 1 fita e com 2 fitas.
+
+<img src="/Imagens/Ativ8f1fita.png">
+<img src="/Imagens/Ativ8f2fitas.png">
 
 9 - Projete Máquinas de Turing que calcule as funções:
 Obs: sugestão: usar duas fitas. Avaliar se precisa de mais fitas.
->
->a) f(x, y) = x - y, para x e y inteiros e positivos, com x > y.
->
->b) f(x, y) = 3*x, para x inteiro e positivo.
->
->c) f(x, y) = x * y, para x e y inteiros e positivos.
->
->d) fatorial de A, sendo A um número inteiro positivo.
->
->e) pot(x,y) = (x ^y), para x e y inteiros positivos.
->
->f) f(x,y) = x + y para x e y inteiros positivos.
->
->g) teste(A > B): nos inteiros positivos.
->
->h) teste (A >= B): nos inteiros positivos.
->
+
+a) f(x, y) = x - y, para x e y inteiros e positivos, com x > y.
+
+b) f(x, y) = 3*x, para x inteiro e positivo.
+
+c) f(x, y) = x * y, para x e y inteiros e positivos.
+
+d) fatorial de A, sendo A um número inteiro positivo.
+
+e) pot(x,y) = (x ^y), para x e y inteiros positivos.
+
+f) f(x,y) = x + y para x e y inteiros positivos.
+
+g) teste(A > B): nos inteiros positivos.
+
+h) teste (A >= B): nos inteiros positivos.
+
 >i) teste (A <=B) : nos inteiros positivos.
->
 
 10 - 
 
