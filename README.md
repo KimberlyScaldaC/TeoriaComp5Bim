@@ -125,6 +125,8 @@ a) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, q3}, {a, b
 >
 <img src="/Imagens/Ativ10a1fita.png">
 
+L = {bn a | n >= 0}
+
 b) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, q3}, {a, b}, {a, b, □}, δ, q0, {q3}), onde
 >
 >δ (q0, a) = (q1, a, R),
@@ -141,6 +143,8 @@ b) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, q3}, {a, b
 >
 <img src="/Imagens/Ativ10b1fita.png">
 
+L = {a b*, b* a}
+
 c) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, qf}, {0, 1}, {0, 1, □}, δ, q0, {qf}), onde
 >
 >δ (q0, □) = (q0, □, R),
@@ -154,6 +158,8 @@ c) Qual a linguagem aceita pela máquina de Touring M = ({q0, q1, q2, qf}, {0, 1
 >δ (q2, □) = (qf, □, R),
 >
 <img src="/Imagens/Ativ10c1fita.png">
+
+L = {1 0 1*}
 
 11 - Construa uma máquina de touring que calcule o tamanho de uma cadeia w, onde w pertence ao conjunto {a, b}*, no qual o tamanho deve ser escrito na base unária. (A máquina de Touring irá simular o comando strlen() da linguagem C). Por exemplo: entrada = abaaba, saída = abaaba$111111.
 Usar quantas fitas achar necessário.
