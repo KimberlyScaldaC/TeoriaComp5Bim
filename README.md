@@ -3,7 +3,7 @@
 ## Grupo
 
 - [Kimberly](https://github.com/KimberlyScaldaC)
-- [Vinícius]()
+- [Vinícius](https://github.com/YellowMelro)
 - [Vitor](https://github.com/OCVitin)
 
 ## Exercícios:
